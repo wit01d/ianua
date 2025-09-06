@@ -1,0 +1,351 @@
+{
+  "fetch_session": {
+    "timestamp": "2025-08-28T02:36:23.441652",
+    "total_devices": 20,
+    "successful_devices": 20,
+    "method": "Direct ADB commands"
+  },
+  "devices": {
+    "R28M33862TY": {
+      "model": "SM-G975F",
+      "categories": {
+        "system": {
+          "settings_count": 270,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 214,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 232,
+          "has_error": false
+        }
+      }
+    },
+    "R58N90XJLMX": {
+      "model": "SM-G975F",
+      "categories": {
+        "system": {
+          "settings_count": 269,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 198,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 183,
+          "has_error": false
+        }
+      }
+    },
+    "R28M20LWTZF": {
+      "model": "SM-G975F",
+      "categories": {
+        "system": {
+          "settings_count": 272,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 219,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 232,
+          "has_error": false
+        }
+      }
+    },
+    "R28M20FYS7D": {
+      "model": "SM-G975F",
+      "categories": {
+        "system": {
+          "settings_count": 268,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 221,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 233,
+          "has_error": false
+        }
+      }
+    },
+    "R28M31MV7TY": {
+      "model": "SM-G975F",
+      "categories": {
+        "system": {
+          "settings_count": 270,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 221,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 232,
+          "has_error": false
+        }
+      }
+    },
+    "R58M31WXDWY": {
+      "model": "SM-G975F",
+      "categories": {
+        "system": {
+          "settings_count": 277,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 217,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 233,
+          "has_error": false
+        }
+      }
+    },
+    "R38MC0BAJDZ": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 285,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 223,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 239,
+          "has_error": false
+        }
+      }
+    },
+    "RF8M541RTSD": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 275,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 218,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 240,
+          "has_error": false
+        }
+      }
+    },
+    "RF8M42VAEMJ": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 273,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 216,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 239,
+          "has_error": false
+        }
+      }
+    },
+    "RF8M62DBAQJ": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 283,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 202,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 228,
+          "has_error": false
+        }
+      }
+    },
+    "RF8MA21L5RL": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 344,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 222,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 256,
+          "has_error": false
+        }
+      }
+    },
+    "RF8M72E4HLX": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 272,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 216,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 199,
+          "has_error": false
+        }
+      }
+    },
+    "RF8MB0QKKYL": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 274,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 219,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 238,
+          "has_error": false
+        }
+      }
+    },
+    "RF8M72TTMDH": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 272,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 216,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 200,
+          "has_error": false
+        }
+      }
+    },
+    "RF8MB1HAVVB": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 273,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 220,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 238,
+          "has_error": false
+        }
+      }
+    },
+    "RF8MB16CT9A": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 281,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 228,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 237,
+          "has_error": false
+        }
+      }
+    },
+    "RF8MB1HB27R": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 273,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 219,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 239,
+          "has_error": false
+        }
+      }
+    },
+    "RF8N321K8CK": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 279,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 199,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 189,
+          "has_error": false
+        }
+      }
+    },
+    "RF8MC0JWW7K": {
+      "model": "SM-G973F",
+      "categories": {
+        "system": {
+          "settings_count": 281,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 202,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 227,
+          "has_error": false
+        }
+      }
+    },
+    "a2d85110": {
+      "model": "ONEPLUS A6003",
+      "categories": {
+        "system": {
+          "settings_count": 69,
+          "has_error": false
+        },
+        "secure": {
+          "settings_count": 181,
+          "has_error": false
+        },
+        "global": {
+          "settings_count": 225,
+          "has_error": false
+        }
+      }
+    }
+  },
+  "total_settings_across_all_devices": 14170
+}
